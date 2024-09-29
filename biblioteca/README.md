@@ -18,15 +18,15 @@ O projeto está organizado da seguinte maneira:
 biblioteca/
 └── src/
     ├── models/
-    │   ├── Autor.java          
-    │   ├── Cliente.java        
-    │   ├── Emprestimo.java     
-    │   └── Livro.java          
+    │   ├── Autor.java
+    │   ├── Cliente.java
+    │   ├── Emprestimo.java
+    │   └── Livro.java
     ├── services/
-    │   └── Biblioteca.java     
+    │   └── Biblioteca.java
     ├── utils/
-    │   └── MenuUtil.java       
-    └── App.java                
+    │   └── MenuUtil.java
+    └── App.java
 
 ## Pré-requisitos
  * Java 17 ou superior instalado.
